@@ -1,0 +1,9 @@
+[package]
+name = "project-inspector"
+version = "0.1.0"
+edition = "2024"
+authors = ["Alexandre Vieira"]
+description = "A command-line tool for inspecting and analyzing software project structures."
+license = "MIT"
+
+[dependencies]
